@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "ebay_app.entitlements",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
