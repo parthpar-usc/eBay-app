@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  ebay-app
-//
-//  Created by Parth Patel on 11/8/23.
-//
-
 import SwiftUI
 
 struct ContentView: View {
